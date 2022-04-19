@@ -1,5 +1,5 @@
 # Alexander Panov
-### Trainee frontend developer
+### Junior frontend developer
 
 [Here](https://zlyuka14.github.io/) is some info about me.
 
